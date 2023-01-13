@@ -1,0 +1,89 @@
+
+@font-face {
+    font-family: Inter-Regular;
+    src: url(../fonts/Inter-Regular.ttf);}
+
+.burger{ width: 647px;
+    height: 323px;
+    padding-left: 415px;
+    padding-top: 20px;
+    padding-right: 378px;
+    margin-bottom: 29px;
+}
+
+
+.cake1 {
+    display: flex;
+    width: 398px;
+    margin: 0 auto;
+}
+.cake {width: 171px;
+    height: 222px;       
+    margin-bottom: 33px;
+    margin-right: 13px;
+}
+
+.text {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    margin-right: 12cm;
+    }
+
+
+    .texti1 {
+    
+        color: black;
+        line-height: 15px;
+        font-weight: 400;
+        font-size: 12px;
+        padding-left: 20%;
+    }
+    
+ .linee{
+    display: flex;
+    justify-content: center;
+    border: 1px solid #E9E9E9;
+    width: 392px;
+    height: 0px;
+    left: 514px;
+    top: 627px;
+    margin-bottom: 29px;
+}
+.menuheading{
+
+    display: flex;
+    width: 392px;
+    margin: 0 auto;
+    
+}
+.salad{
+    width: 208px;
+    height: 322px;      
+    margin-bottom: 29px;
+    margin-right: 9px;
+}
+
+h1 {
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+    margin-top: 29px;
+}
+.ourmenu {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    margin-right: 0px;
+    width: 175px;
+}
+
+
+
